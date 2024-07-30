@@ -38,7 +38,7 @@ int main() <br>
     return 0;
 }
 
-![exp2(a)].(
+![exp2(a)].(https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155718.png)
 
 Code for storage class: <br>
 
