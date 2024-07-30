@@ -60,7 +60,7 @@ int main()
     cout<<"The static variable: "<<s<<endl;
 
 }
-![exp2(b)].(
+![exp2(b)].(https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155739.png)
 
 
 
