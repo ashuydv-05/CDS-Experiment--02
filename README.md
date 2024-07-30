@@ -13,10 +13,10 @@ register: Suggests storing variable in a CPU register for faster access, though 
 These classes help manage how and where data is stored and accessed within a program.<br>
 Code for the program:<br>
 Size of Datatypes:<br>
-#include <iostream>
-using namespace std;
+#include <iostream> <br>
+using namespace std; <br>
 
-int main() 
+int main() <br>
 {
     char a = 's';
     cout << "The size of a character is: "<< sizeof(a) << endl;
