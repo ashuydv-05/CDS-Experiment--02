@@ -13,6 +13,7 @@ register: Suggests storing variable in a CPU register for faster access, though 
 These classes help manage how and where data is stored and accessed within a program.<br>
 Code for the program:<br>
 Size of Datatypes:<br>
+```
 #include <iostream> <br>
 using namespace std; <br>
 
@@ -37,10 +38,12 @@ int main() <br>
     cout<< "The size of a wide character is: "<<sizeof(wchar_t) << endl;
     return 0;
 }
+```
 
-![exp2(a)].(https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155718.png)
+![exp2(a)](https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155718.png)
 
 Code for storage class: <br>
+```
 
 #include<iostream>
 using namespace std;
@@ -60,7 +63,8 @@ int main()
     cout<<"The static variable: "<<s<<endl;
 
 }
-![exp2(b)].(https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155739.png)
+```
+![exp2(b)](https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155739.png)
 
 
 
