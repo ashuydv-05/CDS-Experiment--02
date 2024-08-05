@@ -1,7 +1,7 @@
 # CDS-Experiment--02 /* <br>
-Aim:To study and implement C++ Program Structure (Data Types) an storage class.<br>
+## Aim:To study and implement C++ Program Structure (Data Types) an storage class.<br>
 
-Theory:<br>
+## Theory:<br>
 In C++, data types have specific sizes which determine how much memory is allocated for each type. For example, an int typically uses 4 bytes, char uses 1 byte, float uses 4 bytes, and double uses 8 bytes. Sizes can vary based on the system and compiler.<br>
 
 Storage classes define the scope, visibility, and lifetime of variables/functions. <br> The four storage classes are:<br>
@@ -11,7 +11,7 @@ static: Retains value between function calls, local to the file if used in globa
 extern: Extends visibility across multiple files.<br>
 register: Suggests storing variable in a CPU register for faster access, though modern compilers often ignore this.<br>
 These classes help manage how and where data is stored and accessed within a program.<br>
-Code for the program:<br>
+## Code for the program:<br>
 Size of Datatypes:<br>
 ```
 #include <iostream> <br>
@@ -42,7 +42,7 @@ int main() <br>
 
 ![exp2(a)](https://github.com/ashuydv-05/CDS-Experiment--02/blob/main/Screenshot%202024-07-30%20155718.png)
 
-Code for storage class: <br>
+## Code for storage class: <br>
 ```
 
 #include<iostream>
@@ -68,8 +68,8 @@ int main()
 
 
 
-Conclusion:
-In this experiment we have learnt to check the size of the datatypes and made program using storage class example: auto static and etc.
+## Conclusion:
+The structure of a C++ program includes preprocessor directives, namespace declarations, the main function, and various statements and expressions. Understanding and implementing different data types is crucial for effective programming in C++. This experiment provided hands-on experience with basic data types in C++ and demonstrated their usage within a simple program.
 
 
 
